@@ -1,0 +1,22 @@
+{
+  "name": "angularlearning",
+  "version": "1.0.0",
+  "description": "This is to learn angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdy257/AngLearning.git"
+  },
+  "author": "Mohamed Yousif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdy257/AngLearning/issues"
+  },
+  "homepage": "https://github.com/mohdy257/AngLearning#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
